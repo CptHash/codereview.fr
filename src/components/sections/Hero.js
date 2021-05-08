@@ -56,7 +56,7 @@ const Hero = ({
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
+                  <Button tag="a" color="primary" wideMobile href="https://form.typeform.com/to/KYk4lAS3">
                     Commencer dès maintenant
                     </Button>
                 </ButtonGroup>

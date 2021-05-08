@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Boostez votre carrière !',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenati !'
+    paragraph: 'Monter en compétence en augmentant le nombre de feedbacks reçu et en vous habituant aux bonnes pratiques '
   };
 
   return (
