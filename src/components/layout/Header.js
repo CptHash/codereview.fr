@@ -58,6 +58,11 @@ const Header = ({
     setIsactive(false);
   }
 
+  const login = (e) => {
+    e.preventDefault();
+    window.location = "https://form.typeform.com/to/KYk4lAS3";
+  }
+
   const keyPress = (e) => {
     isActive && e.keyCode === 27 && closeMenu();
   }
@@ -120,7 +125,7 @@ const Header = ({
                       className="list-reset header-nav-right"
                     >
                       <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
+                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={e => login(e)}>Connexion</Link>
                       </li>
                     </ul>}
                 </div>

@@ -74,7 +74,7 @@ const FeaturesTiles = ({
                     Evaluer son niveau
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Il n'est pas facile d'auto-évaluer son niveau, utiliser codereview peut vous permettre de vous situer parmi vos confrères.
                     </p>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const FeaturesTiles = ({
                     Comprendre ses erreurs
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Si vous êtes freelance ou que vous n'avez pas l'occasion de recevoir régulièrement des retours code review vous permet d'identifier vos erreurs.
                     </p>
                 </div>
               </div>
@@ -118,7 +118,7 @@ const FeaturesTiles = ({
                     Progresser
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Evaluer votre niveau et comprendre vos erreurs vont vous permettre de progresser plus rapidement et d'en apprendre plus.
                     </p>
                 </div>
               </div>
@@ -140,7 +140,7 @@ const FeaturesTiles = ({
                     Augmenter la qualité
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Si vous avez pour objectif d'augmenter la qualité de votre code et d'éviter la dette technique la revu par un tiers semble parfaitement adapté.
                     </p>
                 </div>
               </div>
@@ -162,7 +162,7 @@ const FeaturesTiles = ({
                     Double vérification
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    Si vous êtes soucieux de la sécurité et du respect des bonnes pratiques, la revue de code vous permettra d'être plus serein durant vos déploiements.
                     </p>
                 </div>
               </div>
@@ -184,8 +184,8 @@ const FeaturesTiles = ({
                     Gagner en productivité
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
-                    </p>
+                    Votre équipe ou vous-même n'avez pas le temps pour des revues de code en interne? Gagnez en productivité en externalisant ce processus.
+                  </p>
                 </div>
               </div>
             </div>
