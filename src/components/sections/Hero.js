@@ -52,7 +52,7 @@ const Hero = ({
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-              Nous vous permettons de monter en compétence et d’améliorer la qualité de votre code grâce à des codes reviews complètes.
+              Soumettez-nous votre code et obtenez un retour complet ! Choisissez également le point d'attention de votre code review: qualité, progression, sécurité, ...
                 </p>
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>

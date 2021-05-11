@@ -45,7 +45,7 @@ const FeaturesTiles = ({
 
   const sectionHeader = {
     title: 'Boostez votre carrière !',
-    paragraph: 'Monter en compétence en augmentant le nombre de feedbacks reçu et en vous habituant aux bonnes pratiques. '
+    paragraph: 'Nous vous permettons de monter en compétence et d’améliorer la qualité de votre code grâce à des codes reviews complètes.'
   };
 
   return (
